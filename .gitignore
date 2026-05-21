@@ -21,3 +21,7 @@ MemoryCaptures/
 
 .vscode/
 .idea/
+
+.vs/
+.vsconfig
+UpgradeLog.htm
